@@ -33,8 +33,3 @@ Clarify
 Nexus
 Newsify
 EquiNews
-
-
-
-name: equinews-db
-docker pass 489q-h4ogha984gyq4kjhadg# go-echo
